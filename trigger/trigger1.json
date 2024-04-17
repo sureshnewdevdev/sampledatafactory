@@ -14,7 +14,7 @@
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Day",
+				"frequency": "Hour",
 				"interval": 1,
 				"startTime": "2024-04-17T16:15:00",
 				"endTime": "2024-04-18T16:15:00",
